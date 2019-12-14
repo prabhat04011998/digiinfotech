@@ -2,9 +2,6 @@
 
 <?php include 'includes/header.php' ?>
 
-<div class="home-wrapper">
-<div class="container">
-	<h2 style="color:wheat;font-weight: 600;font-size:50px;">Youth Development Program</h2>
     <div id="myCarousel" class="carousel slide" data-ride="carousel">
     <!-- Indicators -->
     <ol class="carousel-indicators">
@@ -16,15 +13,15 @@
     <!-- Wrapper for slides -->
     <div class="carousel-inner">
       <div class="item active">
-        <img src="img/carousel4.jpg" alt="Los Angeles" style="width:100%;">
+        <img src="img/carousel1.jpeg" alt="Los Angeles" style="width:100%;">
       </div>
 
       <div class="item">
-        <img src="img/carousel4.jpg" alt="Chicago" style="width:100%;">
+        <img src="img/carousel2.jpeg" alt="Chicago" style="width:100%;">
       </div>
     
       <div class="item">
-        <img src="img/carousel4.jpg" alt="New york" style="width:100%;">
+        <img src="img/carousel3.jpeg" alt="New york" style="width:100%;">
       </div>
     </div>
 
@@ -38,7 +35,10 @@
       <span class="sr-only">Next</span>
     </a>
   </div>
-
+<div class="home-wrapper">
+<div class="container">
+	<!-- <h2 style="color:wheat;font-weight: 600;font-size:50px;">Youth Development Program</h2>
+ -->
 </div>
 
 </div>
@@ -52,8 +52,7 @@
 <div class="row">
 
 <div class="section-header text-center">
-<h2 class="title">SEO Services and Digital Marketing Agency in India</h2>
-<p>
+<p style="line-height: 2;font-size:16px">
 
 Techmagnate is India’s top digital marketing and SEO services company. We are based in New Delhi and we provide full-suite Internet marketing services. From conceptualization and strategy to final-stage execution, we implement your entire digital marketing strategy. Because we adopt a 360° approach to digital marketing, our services include Web Design, SEO, Social Media Marketing, Pay-Per-Click Advertising and Application Development.</p>
 </div>
@@ -410,7 +409,7 @@ Content marketing is about a forward-thinking vision – as the Internet ages, i
 <div class="row">
 
 <div class="section-header text-center">
-<h2 class="title">Pricing Table</h2>
+<h2 class="title">NOW GET YOUR OWN HOSTING</h2>
 </div>
 
 
@@ -419,7 +418,7 @@ Content marketing is about a forward-thinking vision – as the Internet ages, i
 <div class="price-head">
 <span class="price-title">Basic plan</span>
 <div class="price">
-<h3>$9<span class="duration">/ month</span></h3>
+<h3>₹999<span class="duration">/ month</span></h3>
 </div>
 </div>
 <ul class="price-content">
@@ -445,7 +444,7 @@ Content marketing is about a forward-thinking vision – as the Internet ages, i
 <div class="price-head">
 <span class="price-title">Silver plan</span>
 <div class="price">
-<h3>$19<span class="duration">/ month</span></h3>
+<h3>₹1999<span class="duration">/ month</span></h3>
 </div>
 </div>
 <ul class="price-content">
@@ -471,7 +470,7 @@ Content marketing is about a forward-thinking vision – as the Internet ages, i
 <div class="price-head">
 <span class="price-title">Gold plan</span>
 <div class="price">
-<h3>$39<span class="duration">/ month</span></h3>
+<h3>₹2999<span class="duration">/ month</span></h3>
 </div>
 </div>
 <ul class="price-content">

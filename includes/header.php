@@ -48,9 +48,9 @@
 
 <header id="home">
 
-<div class="bg-img" style="background-image: url('./img/background1.jpg');">
+<!-- <div class="bg-img" style="background-image: url('./img/background1.jpg');">
 <div class="overlay"></div>
-</div>
+</div> -->
 <nav id="nav" class="navbar nav-transparent">
 <div class="container">
 <div class="navbar-header">
@@ -87,3 +87,4 @@
 
 </div>
 </nav>
+

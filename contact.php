@@ -6,7 +6,7 @@
 <div class="row">
 
 <div class="section-header text-center">
-<h2 class="title" style="color:#fff;">Get in touch</h2>
+<h2 class="title" style="color:#fff;">Register</h2>
 </div>
 
 
@@ -48,6 +48,7 @@
 </div>
 
 </div>
+
 
 </div>
 
