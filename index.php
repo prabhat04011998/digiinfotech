@@ -1,6 +1,12 @@
 
 
 <?php include 'includes/header.php' ?>
+<div id="heading">
+  <h1>DIGIYOUTH INFOTECH - DIGITAL MARKETING LAB</h1>
+  <p style="margin:1em 4em">DigiYouth is one of the most trusted Digital Marketing Institute and Company in India .</p>
+  
+</div>
+
 
     <div id="myCarousel" class="carousel slide" data-ride="carousel">
     <!-- Indicators -->
@@ -13,13 +19,13 @@
     <!-- Wrapper for slides -->
     <div class="carousel-inner">
       <div class="item active">
-        <img src="img/carousel1.jpeg" alt="Los Angeles" style="width:100%;">
+        <img src="img/carousel4.jpeg" alt="Los Angeles" style="width:100%;">
       </div>
 
       <div class="item">
         <img src="img/carousel2.jpeg" alt="Chicago" style="width:100%;">
       </div>
-    
+    f
       <div class="item">
         <img src="img/carousel3.jpeg" alt="New york" style="width:100%;">
       </div>
@@ -37,7 +43,7 @@
   </div>
 <div class="home-wrapper">
 <div class="container">
-	<!-- <h2 style="color:wheat;font-weight: 600;font-size:50px;">Youth Development Program</h2>
+  <!-- <h2 style="color:wheat;font-weight: 600;font-size:50px;">Youth Development Program</h2>
  -->
 </div>
 
@@ -45,82 +51,79 @@
 
 </header>
 
-<div id="about" class="section md-padding">
+
+<div id="masteryProgram">
+  <h3 style="font-size:36px;font-weight: 600">Join Our Mastery Program To Lead The Marketing</h3>
+  <button><a style="text-decoration: none;color:#fff;"  href="./mastery-program.php"><span class="glyphicon glyphicon-play"></span></i>Explore</a></button>
+</div>
+<!-- courses div -->
+
+<div id="courses" class="section md-padding">
 
 <div class="container">
 
 <div class="row">
 
 <div class="section-header text-center">
-<p style="line-height: 2;font-size:16px">
 
-Techmagnate is India’s top digital marketing and SEO services company. We are based in New Delhi and we provide full-suite Internet marketing services. From conceptualization and strategy to final-stage execution, we implement your entire digital marketing strategy. Because we adopt a 360° approach to digital marketing, our services include Web Design, SEO, Social Media Marketing, Pay-Per-Click Advertising and Application Development.</p>
+<h2 class="title">Our Modules</h2>
 </div>
 
 
-<div class="col-md-4">
-<div class="about">
-<img src="img/menuicon5.jpg">
-<h3>Search Engine Optimization</h3>
-<p>
-
-Techmagnate is India’s top digital marketing and SEO services company. We are based in New Delhi and we provide full-suite Internet marketing services. From conceptualization and strategy to final-stage execution, we implement your entire digital marketing strategy. Because we adopt a 360° approach to digital marketing, our services include Web Design, SEO, Social Media Marketing, Pay-Per-Click Advertising and Application Development.</p>
-<a href="#">Read more</a>
+<div class="col-md-4 col-sm-6">
+<div class="service" >
+<img src="img/seo-course.jpg">
+<h3 ><a href="./course-search-engine-optimization.php" style="text-decoration: none;">Search Engine Optimization</a></h3>
+<p>Google answers over 40,000 search queries every second, Can you imagine? Ever wonder? How Google finds the right answer?</p>
 </div>
 </div>
 
 
-<div class="col-md-4">
-<div class="about">
-<img src="img/menuicon3.jpg">
-<h3>Website Designing and Development</h3>
-<p>First impressions are very important & we can get that deal sealed for you right away. As your website design company, we work in a consultative manner, serving as your advisors, designers and developers...</p>
-<a href="#">Read more</a>
+<div class="col-md-4 col-sm-6">
+<div class="service">
+<img src="img/adwords.jpg" alt="content marketing">
+<h3><a href="./course-content-marketing.php" style="text-decoration: none;">Content Marketing</a></h3>
+<p>Content marketing is an art to selling your product. Whether you’re a start-up or an established company, content matters most in terms of growth. Premium quality content, blogs.</p>
 </div>
 </div>
 
 
-<div class="col-md-4">
-<div class="about">
-<img src="img/video-marketing-seo.jpg">
-<h3>Video Marketing & YouTube SEO</h3>
-<p>Get ready for a big boost in organic video views, engagement metrics and subscription numbers for your YouTube channel with our experienced video seo services.</p>
-<a href="#">Read more</a>
+<div class="col-md-4 col-sm-6">
+<div class="service">
+<img src="img/blogging.jpg" alt="Influencer">
+<h3><a href="./course-influencer-marketing.php" style="text-decoration: none;">Influencer Marketing</a></h3>
+<p>Influencer marketing or IM engages the brand advertising option where a person will influence your business. We assist our clients to opt out the best person in the market ...</p>
 </div>
 </div>
+
+
 
 </div>
 <div class="row">
 
-<div class="col-md-4">
-<div class="about">
-<img src="img/menuicon6.jpg">
-<h3>Conversion Rate Optimization</h3>
-<p>
-Here at Techmagnate, we live by the uncomfortable truths: such as the fact that no matter how much traffic you build for your website, your efforts will go to waste unless you back them up with a conversion plan.</p>
-<a href="#">Read more</a>
+<div class="col-md-4 col-sm-6">
+<div class="service">
+<img src="img/affilate.jpg">
+<h3><a href="./course-display-advertising.php" style="text-decoration: none;">Display Advertising</a></h3>
+<p>The brand new business module in digital marketing segment is display advertising, effective yet low-cost module which is successfully run in the market. We offer our clients several ...</p>
 </div>
 </div>
 
 
-<div class="col-md-4">
-<div class="about">
-<img src="img/menuicon4.jpg">
-<h3>Content Marketing</h3>
-<p>
-Content marketing is about a forward-thinking vision – as the Internet ages, information becomes the prevalent and prominent source of value online.
-</p>
-<a href="#">Read more</a>
+<div class="col-md-4 col-sm-6">
+<div class="service" style="text-align: center;">
+<span  style="font-size:32px;padding:16px" class="glyphicon glyphicon-pencil"></span>
+<h3><a href="./course-social-media-marketing.php" style="text-decoration: none;">Social Media Marketing</a></h3>
+<p>By 2019, there will be more than  2.77 billion social media users across the globe. We are here to help you understand Social media marketing and how it works.</p>
 </div>
 </div>
 
 
-<div class="col-md-4">
-<div class="about">
-<img src="img/menuicon2.jpg">
-<h3>Online Reputation Management</h3>
-<p>Get ready for a big boost in organic video views, engagement metrics and subscription numbers for your YouTube channel with our experienced video seo services.</p>
-<a href="#">Read more</a>
+<div class="col-md-4 col-sm-6">
+<div class="service">
+<img src="img/sales-training-course.jpg" alt="remarketing">
+<h3><a href="./course-remarketing.php" style="text-decoration: none;">Remarketing </a></h3>
+<p>Remarketing or redirecting is a very cost-effective way to display your ads on the site. We recommend our clients who are merely a start-up, can avail the  remarketing from Google Adwords.</p>
 </div>
 </div>
 </div>
@@ -128,6 +131,13 @@ Content marketing is about a forward-thinking vision – as the Internet ages, i
 </div>
 
 </div>
+
+
+<!-- testinomials -->
+
+<?php include 'includes/testimonial.php' ?>
+
+
 
 
 <div id="portfolio" class="section md-padding bg-grey">
@@ -142,28 +152,28 @@ Content marketing is about a forward-thinking vision – as the Internet ages, i
 
 
 <div class="col-md-4 col-xs-6 work">
-<img class="img-responsive" src="./img/work1.jpg" alt="">
+<img class="img-responsive" src="./img/work1.png" alt="">
 <div class="overlay"></div>
 <div class="work-content">
 <span>Category</span>
 <h3>Lorem ipsum dolor</h3>
 <div class="work-link">
 <a href="#"><i class="fa fa-external-link"></i></a>
-<a class="lightbox" href="./img/work1.jpg"><i class="fa fa-search"></i></a>
+<a class="lightbox" href="./img/work1.png"><i class="fa fa-search"></i></a>
 </div>
 </div>
 </div>
 
 
 <div class="col-md-4 col-xs-6 work">
-<img class="img-responsive" src="./img/work2.jpg" alt="">
+<img class="img-responsive" src="./img/work2.png" alt="">
 <div class="overlay"></div>
 <div class="work-content">
 <span>Category</span>
 <h3>Lorem ipsum dolor</h3>
 <div class="work-link">
 <a href="#"><i class="fa fa-external-link"></i></a>
-<a class="lightbox" href="./img/work2.jpg"><i class="fa fa-search"></i></a>
+<a class="lightbox" href="./img/work2.png"><i class="fa fa-search"></i></a>
 </div>
 </div>
 </div>
@@ -184,28 +194,28 @@ Content marketing is about a forward-thinking vision – as the Internet ages, i
 
 
 <div class="col-md-4 col-xs-6 work">
-<img class="img-responsive" src="./img/work4.jpg" alt="">
+<img class="img-responsive" src="./img/work4.png" alt="">
 <div class="overlay"></div>
 <div class="work-content">
 <span>Category</span>
 <h3>Lorem ipsum dolor</h3>
 <div class="work-link">
 <a href="#"><i class="fa fa-external-link"></i></a>
-<a class="lightbox" href="./img/work4.jpg"><i class="fa fa-search"></i></a>
+<a class="lightbox" href="./img/work4.png"><i class="fa fa-search"></i></a>
 </div>
 </div>
 </div>
 
 
 <div class="col-md-4 col-xs-6 work">
-<img class="img-responsive" src="./img/work5.jpg" alt="">
+<img class="img-responsive" src="./img/work5.png" alt="">
 <div class="overlay"></div>
 <div class="work-content">
 <span>Category</span>
 <h3>Lorem ipsum dolor</h3>
 <div class="work-link">
 <a href="#"><i class="fa fa-external-link"></i></a>
-<a class="lightbox" href="./img/work5.jpg"><i class="fa fa-search"></i></a>
+<a class="lightbox" href="./img/work5.png"><i class="fa fa-search"></i></a>
 </div>
 </div>
 </div>
@@ -230,80 +240,9 @@ Content marketing is about a forward-thinking vision – as the Internet ages, i
 
 </div>
 
-
-<div id="service" class="section md-padding">
-
-<div class="container">
-
-<div class="row">
-
-<div class="section-header text-center">
-<h2 class="title">Our Modules</h2>
-</div>
-
-
-<div class="col-md-4 col-sm-6">
-<div class="service">
-<img src="img/seo-course.jpg">
-<h3>Search Engine Optimization</h3>
-<p>Google answers over 40,000 search queries every second, Can you imagine? Ever wonder? How Google finds the right answer?</p>
-</div>
-</div>
-
-
-<div class="col-md-4 col-sm-6">
-<div class="service">
-<img src="img/adwords.jpg" alt="google adwords">
-<h3>Google Adwords</h3>
-<p>Here we teach everything about PPC (Pay Per Click) ads as google greatly determines what people purchase and we here show you ways to be at the top at a very less bidding price.</p>
-</div>
-</div>
-
-
-<div class="col-md-4 col-sm-6">
-<div class="service">
-<img src="img/blogging.jpg" alt="Bloggin">
-<h3>Blogging</h3>
-<p>Blogging has been a rising field in the past decade and is still booming by leaps and bounds. So why not to put hands on keyword and become a blogger.</p>
-</div>
-</div>
-
-
-
-</div>
-<div class="row">
-
-<div class="col-md-4 col-sm-6">
-<div class="service">
-<img src="img/affilate.jpg">
-<h3>Affiliate Marketing</h3>
-<p>Using affiliate marketing in the boom of E-commerce is like a blessing, more the clicks more the commission and more heavy pocket you have.</p>
-</div>
-</div>
-
-
-<div class="col-md-4 col-sm-6">
-<div class="service">
-<i class="fa fa-pencil"></i>
-<h3>Social Media Marketing</h3>
-<p>By 2019, there will be more than  2.77 billion social media users across the globe. We are here to help you understand Social media marketing and how it works.</p>
-</div>
-</div>
-
-
-<div class="col-md-4 col-sm-6">
-<div class="service">
-<img src="img/sales-training-course.jpg" alt="sales_training">
-<h3>Sales Training</h3>
-<p>By 2019, there will be more than  2.77 billion social media users across the globe. We are here to help you understand Social media marketing and how it works.</p>
-</div>
-</div>
-</div>
-
-</div>
-
-</div>
-
+<!-- services div -->
+<?php include 'includes/service-module.php' ?>
+<!-- features div -->
 
 <div id="features" class="section md-padding bg-grey">
 
@@ -336,7 +275,7 @@ Content marketing is about a forward-thinking vision – as the Internet ages, i
 
 
 <div class="col-md-6">
-	<img src="img/blog1.jpg">
+  <img src="img/blog1.png">
 <div id="about-slider" class="owl-carousel owl-theme owl-loaded owl-drag">
 
 </div>
@@ -351,7 +290,7 @@ Content marketing is about a forward-thinking vision – as the Internet ages, i
 
 <div id="numbers" class="section sm-padding">
 
-<div class="bg-img" style="background-image: url('./img/background2.jpg');">
+<div class="bg-img" style="background-image: url('./img/background2.png');">
 <div class="overlay"></div>
 </div>
 
@@ -402,101 +341,6 @@ Content marketing is about a forward-thinking vision – as the Internet ages, i
 </div>
 
 
-<div id="pricing" class="section md-padding">
-
-<div class="container">
-
-<div class="row">
-
-<div class="section-header text-center">
-<h2 class="title">NOW GET YOUR OWN HOSTING</h2>
-</div>
-
-
-<div class="col-sm-4">
-<div class="pricing">
-<div class="price-head">
-<span class="price-title">Basic plan</span>
-<div class="price">
-<h3>₹999<span class="duration">/ month</span></h3>
-</div>
-</div>
-<ul class="price-content">
-<li>
-<p>1GB Disk Space</p>
-</li>
-<li>
-<p>100 Email Account</p>
-</li>
-<li>
-<p>24/24 Support</p>
-</li>
-</ul>
-<div class="price-btn">
-<button class="outline-btn">Purchase now</button>
-</div>
-</div>
-</div>
-
-
-<div class="col-sm-4">
-<div class="pricing">
-<div class="price-head">
-<span class="price-title">Silver plan</span>
-<div class="price">
-<h3>₹1999<span class="duration">/ month</span></h3>
-</div>
-</div>
-<ul class="price-content">
-<li>
-<p>1GB Disk Space</p>
-</li>
-<li>
-<p>100 Email Account</p>
-</li>
-<li>
-<p>24/24 Support</p>
-</li>
-</ul>
-<div class="price-btn">
-<button class="outline-btn">Purchase now</button>
-</div>
-</div>
-</div>
-
-
-<div class="col-sm-4">
-<div class="pricing">
-<div class="price-head">
-<span class="price-title">Gold plan</span>
-<div class="price">
-<h3>₹2999<span class="duration">/ month</span></h3>
-</div>
-</div>
-<ul class="price-content">
-<li>
-<p>1GB Disk Space</p>
-</li>
-<li>
-<p>100 Email Account</p>
-</li>
-<li>
-<p>24/24 Support</p>
-</li>
-</ul>
-<div class="price-btn">
-<button class="outline-btn">Purchase now</button>
-</div>
-</div>
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-
 
 
 <div id="quote" class="section md-padding">
@@ -504,12 +348,12 @@ Content marketing is about a forward-thinking vision – as the Internet ages, i
 <div class="container">
 
 <div class="row">
-	<div class="col-md-4">
-		<img src="img/hey.png">
-	</div>
-	<div class="col-md-8">
-		<h3 style="color:#fff;padding: 50px;font-weight: 600;">“Instead of becoming an addicted consumer of Digital Era, you have once in a lifetime chance to be the creator of  digitalisation”</h3>
-	</div>
+  <div class="col-md-4">
+    <img src="img/hey2.png">
+  </div>
+  <div class="col-md-8">
+    <h3 style="color:#fff;padding: 50px;font-weight: 600;">“Instead of becoming an addicted consumer of Digital Era, you have once in a lifetime chance to be the creator of  digitalisation”</h3>
+  </div>
 
 
 
@@ -535,7 +379,7 @@ Content marketing is about a forward-thinking vision – as the Internet ages, i
 <div class="col-md-4">
 <div class="blog">
 <div class="blog-img">
-<img class="img-responsive" src="./img/blog1.jpg" alt="">
+<img class="img-responsive" src="./img/blog1.png" alt="">
 </div>
 <div class="blog-content">
 <ul class="blog-meta">
@@ -573,7 +417,7 @@ Content marketing is about a forward-thinking vision – as the Internet ages, i
 <div class="col-md-4">
 <div class="blog">
 <div class="blog-img">
-<img class="img-responsive" src="./img/blog3.jpg" alt="">
+<img class="img-responsive" src="./img/blog3.png" alt="">
 </div>
 <div class="blog-content">
 <ul class="blog-meta">
@@ -614,14 +458,9 @@ Content marketing is about a forward-thinking vision – as the Internet ages, i
 </div>
 
 
-<script type="text/javascript" src="js/jquery.min.js"></script>
-<script type="text/javascript" src="js/bootstrap.min.js"></script>
-<script type="text/javascript" src="js/owl.carousel.min.js"></script>
-<script type="text/javascript" src="js/jquery.magnific-popup.js"></script>
-<script type="text/javascript" src="js/main.js"></script>
-
 
 
 
 </body>
+
 </html>
