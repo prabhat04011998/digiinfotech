@@ -95,7 +95,7 @@ h1, h2, h3, h4, h5, h6, figure {
   background: #e8340a;
 }
 
-.skillcircle-nav {
+.digiyouth-nav {
   position: absolute;
   top: 0;
   margin: 0;
@@ -104,18 +104,18 @@ h1, h2, h3, h4, h5, h6, figure {
   padding: 0;
   z-index: 1001;
 }
-.skillcircle-nav .top-menu {
+.digiyouth-nav .top-menu {
   padding: 28px 0;
 }
-.skillcircle-nav .top {
+.digiyouth-nav .top {
   padding: 7px 0;
   margin-bottom: 0;
 }
-.skillcircle-nav .top .num, .skillcircle-nav .top .skillcircle-social {
+.digiyouth-nav .top .num, .digiyouth-nav .top .digiyouth-social {
   display: inline-block;
   margin: 0;
 }
-.skillcircle-nav .top .num {
+.digiyouth-nav .top .num {
  color: rgba(41, 41, 41, 0.6);
     font-size: 14px;
     padding-right: 10px;
@@ -124,16 +124,16 @@ h1, h2, h3, h4, h5, h6, figure {
     letter-spacing: -0.2px;
     font-weight: 500;
 }
-.skillcircle-nav .top .skillcircle-social li {
+.digiyouth-nav .top .digiyouth-social li {
   font-size: 14px;
 }
-.skillcircle-nav .top .skillcircle-social li a {
+.digiyouth-nav .top .digiyouth-social li a {
   padding: 0 7px;
 }
-.skillcircle-nav .top .skillcircle-social li a i {
+.digiyouth-nav .top .digiyouth-social li a i {
   font-size: 14px;
 }
-.skillcircle-nav #skillcircle-logo {
+.digiyouth-nav #digiyouth-logo {
   font-size: 24px;
   margin: 0;
   padding: 0;
@@ -143,13 +143,13 @@ h1, h2, h3, h4, h5, h6, figure {
   font-family: "Work Sans", Arial, sans-serif;
       margin-top: -15px;
 }
-div#skillcircle-logo img {
+div#digiyouth-logo img {
     width: 85%;
 }
-.skillcircle-nav #skillcircle-logo a span {
+.digiyouth-nav #digiyouth-logo a span {
   color: #e8340a;
 }
-.skillcircle-nav a {
+.digiyouth-nav a {
   padding: 5px 10px;
   color: #1b1919;
 }
@@ -161,21 +161,21 @@ div#skillcircle-logo img {
     bottom: -13px;
     margin-right: -35px;
 }
-  .skillcircle-nav .menu-1 {
+  .digiyouth-nav .menu-1 {
     display: none;
   }
 }
-.skillcircle-nav ul {
+.digiyouth-nav ul {
   padding: 0;
   margin: 5px 0 0 0;
 }
-.skillcircle-nav ul li {
+.digiyouth-nav ul li {
   padding: 0;
   margin: 0;
   list-style: none;
   display: inline;
 }
-.skillcircle-nav ul li a {
+.digiyouth-nav ul li a {
   font-size: 15px;
   padding: 30px 7px;
   color: rgb(99, 99, 99);
@@ -184,13 +184,13 @@ div#skillcircle-logo img {
   transition: 0.5s;
   font-weight: 500;
 }
-.skillcircle-nav ul li a:hover, .skillcircle-nav ul li a:focus, .skillcircle-nav ul li a:active {
+.digiyouth-nav ul li a:hover, .digiyouth-nav ul li a:focus, .digiyouth-nav ul li a:active {
       color: #e9340a;
 }
-.skillcircle-nav ul li.has-dropdown {
+.digiyouth-nav ul li.has-dropdown {
   position: relative;
 }
-.skillcircle-nav ul li.has-dropdown .dropdown {
+.digiyouth-nav ul li.has-dropdown .dropdown {
   width: 230px;
   -webkit-box-shadow: 0px 14px 33px -9px rgba(0, 0, 0, 0.75);
   -moz-box-shadow: 0px 14px 33px -9px rgba(0, 0, 0, 0.75);
@@ -212,7 +212,7 @@ div#skillcircle-logo img {
   -o-transition: 0s;
   transition: 0s;
 }
-.skillcircle-nav ul li.has-dropdown .dropdown:before {
+.digiyouth-nav ul li.has-dropdown .dropdown:before {
   bottom: 100%;
   left: 40px;
   border: solid transparent;
@@ -225,14 +225,14 @@ div#skillcircle-logo img {
   border-width: 8px;
   margin-left: -8px;
 }
-.skillcircle-nav ul li.has-dropdown .dropdown li {
+.digiyouth-nav ul li.has-dropdown .dropdown li {
   display: block;
   margin-bottom: 7px;
 }
-.skillcircle-nav ul li.has-dropdown .dropdown li:last-child {
+.digiyouth-nav ul li.has-dropdown .dropdown li:last-child {
   margin-bottom: 0;
 }
-.skillcircle-nav ul li.has-dropdown .dropdown li a {
+.digiyouth-nav ul li.has-dropdown .dropdown li a {
   padding: 2px 0;
   display: block;
   color: #000;
@@ -241,18 +241,18 @@ div#skillcircle-logo img {
   font-size: 13px;
   letter-spacing: 0;
 }
-.skillcircle-nav ul li.has-dropdown .dropdown li a:hover {
+.digiyouth-nav ul li.has-dropdown .dropdown li a:hover {
   color:#e9340a;
 }
-.skillcircle-nav ul li.has-dropdown:hover a, .skillcircle-nav ul li.has-dropdown:focus a {
+.digiyouth-nav ul li.has-dropdown:hover a, .digiyouth-nav ul li.has-dropdown:focus a {
   color: #000;
 }
-.skillcircle-nav ul li.btn-cta a {
+.digiyouth-nav ul li.btn-cta a {
   padding: 30px 0px !important;
       color: #fff;
     font-weight: bold;
 }
-.skillcircle-nav ul li.btn-cta a span {
+.digiyouth-nav ul li.btn-cta a span {
   background:rgb(233, 52, 10);
   padding: 4px 10px;
   display: -moz-inline-stack;
@@ -267,35 +267,35 @@ div#skillcircle-logo img {
   -ms-border-radius: 100px;
   border-radius: 100px;
 }
-.skillcircle-nav ul li.btn-cta a:hover span {
+.digiyouth-nav ul li.btn-cta a:hover span {
   -webkit-box-shadow: 0px 14px 20px -9px rgba(0, 0, 0, 0.75);
   -moz-box-shadow: 0px 14px 20px -9px rgba(0, 0, 0, 0.75);
   box-shadow: 0px 14px 20px -9px rgba(0, 0, 0, 0.75);
 }
-.skillcircle-nav ul li.active > a {
+.digiyouth-nav ul li.active > a {
       color:#e9340a !important;
     font-weight: bold;
 }
-.skillcircle-nav ul li.active > a i {
+.digiyouth-nav ul li.active > a i {
     font-weight: bold;
 }
 
-#skillcircle-dsheader{
+#digiyouth-dsheader{
 background-position: top center !important;
   background-repeat: no-repeat;
   position: relative;
 }
 
-#skillcircle-header,
-#skillcircle-counter,
-.skillcircle-bg {
+#digiyouth-header,
+#digiyouth-counter,
+.digiyouth-bg {
   background-size: 100%;
   background-position: top center !important;
   background-repeat: no-repeat;
   position: relative;
 }
 
-.skillcircle-bg {
+.digiyouth-bg {
   background-size: cover;
   background-position: center center;
   position: relative;
@@ -303,15 +303,15 @@ background-position: top center !important;
   float: left;
 }
 
-.skillcircle-video {
+.digiyouth-video {
   overflow: hidden;
 }
 @media screen and (max-width: 992px) {
-  .skillcircle-video {
+  .digiyouth-video {
     height: 450px;
   }
 }
-.skillcircle-video a {
+.digiyouth-video a {
   z-index: 1001;
   position: absolute;
   top: 50%;
@@ -331,13 +331,13 @@ background-position: top center !important;
   -ms-border-radius: 50%;
   border-radius: 50%;
 }
-.skillcircle-video a i {
+.digiyouth-video a i {
   text-align: center;
   display: table-cell;
   vertical-align: middle;
   font-size: 40px;
 }
-.skillcircle-video .overlay {
+.digiyouth-video .overlay {
   position: absolute;
   top: 0;
   left: 0;
@@ -348,10 +348,10 @@ background-position: top center !important;
   -o-transition: 0.5s;
   transition: 0.5s;
 }
-.skillcircle-video:hover .overlay {
+.digiyouth-video:hover .overlay {
   background: rgba(0, 0, 0, 0.7);
 }
-.skillcircle-video:hover a {
+.digiyouth-video:hover a {
   -webkit-transform: scale(1.2);
   -moz-transform: scale(1.2);
   -ms-transform: scale(1.2);
@@ -359,7 +359,7 @@ background-position: top center !important;
   transform: scale(1.2);
 }
 
-.skillcircle-cover {
+.digiyouth-cover {
   height: 800px;
   background-size: cover;
   background-position: top center;
@@ -368,7 +368,7 @@ background-position: top center !important;
   float: left;
   width: 100%;
 }
-.skillcircle-cover .overlay {
+.digiyouth-cover .overlay {
   z-index: 0;
   position: absolute;
   bottom: 0;
@@ -376,7 +376,7 @@ background-position: top center !important;
   left: 0;
   right: 0;
 }
-.skillcircle-cover > .skillcircle-container {
+.digiyouth-cover > .digiyouth-container {
   position: relative;
   z-index: 10;
 }
@@ -385,12 +385,12 @@ div.aboutus_container, div.join_our_team_banner {
     background-size: 100% !important;
     min-height: 140px !important;
 }
-  .skillcircle-cover {
+  .digiyouth-cover {
     height: 600px;
   }
 }
-.skillcircle-cover .display-t,
-.skillcircle-cover .display-tc {
+.digiyouth-cover .display-t,
+.digiyouth-cover .display-tc {
   z-index: 9;
   height: 700px;
   display: table;
@@ -403,18 +403,18 @@ div.aboutus_container, div.join_our_team_banner {
     border-bottom: solid 3px #e8340a;
     margin-bottom: 30px !important;
 }
-  .skillcircle-cover .display-t,
-  .skillcircle-cover .display-tc {
+  .digiyouth-cover .display-t,
+  .digiyouth-cover .display-tc {
     height: auto;
   }
-  #skillcircle-header .display-tc img {
+  #digiyouth-header .display-tc img {
     width: 100%;
     margin-top:-100px;
 }
-#skillcircle_single_testimonial .single_testimonial_img {
+#digiyouth_single_testimonial .single_testimonial_img {
   width: 100% !important;
 }
-.skillcircle-project {
+.digiyouth-project {
   width:95% !important;
 }
 div.partners_slide img {
@@ -427,7 +427,7 @@ div#our_trainees_container .col-md-3 {
   width:93% !important;
   margin-bottom: 62px;
 }
-.skillcircle-heading h2 {
+.digiyouth-heading h2 {
     margin-bottom: 55px !important;
     line-height: 30px !important;
 }
@@ -440,17 +440,17 @@ div#usps_container .col-md-4 {
 .partners_slide img {
   margin-bottom: 15px !important;
 }
-#skillcircle-header .display-tc h1 b {
+#digiyouth-header .display-tc h1 b {
     margin-bottom: 0px !important;
     font-size: 33px !important;
 }
     
 }
-.skillcircle-cover.skillcircle-cover-sm {
+.digiyouth-cover.digiyouth-cover-sm {
   height: 600px;
 }
 @media screen and (max-width: 768px) {
-  .skillcircle-cover.skillcircle-cover-sm {
+  .digiyouth-cover.digiyouth-cover-sm {
     height: 400px;
   }
   .about_join_our_team a {
@@ -458,178 +458,178 @@ div#usps_container .col-md-4 {
     width: 100% !important;
   }
 }
-.skillcircle-cover.skillcircle-cover-sm .display-t,
-.skillcircle-cover.skillcircle-cover-sm .display-tc {
+.digiyouth-cover.digiyouth-cover-sm .display-t,
+.digiyouth-cover.digiyouth-cover-sm .display-tc {
   height: 600px;
   display: table;
   width: 100%;
 }
 @media screen and (max-width: 768px) {
-  .skillcircle-cover.skillcircle-cover-sm .display-t,
-  .skillcircle-cover.skillcircle-cover-sm .display-tc {
+  .digiyouth-cover.digiyouth-cover-sm .display-t,
+  .digiyouth-cover.digiyouth-cover-sm .display-tc {
     height: 400px;
   }
 }
 
-#skillcircle-header .display-tc,
-#skillcircle-counter .display-tc,
-.skillcircle-cover .display-tc {
+#digiyouth-header .display-tc,
+#digiyouth-counter .display-tc,
+.digiyouth-cover .display-tc {
   display: table-cell !important;
   vertical-align: middle;
 } h2,
-.skillcircle-cover .display-tc h1,
-.skillcircle-cover .display-tc h2 {
+.digiyouth-cover .display-tc h1,
+.digiyouth-cover .display-tc h2 {
   margin: 0;
   padding: 0;
   color: #4c4c4c;
 }
-#skillcircle-header .display-tc h
-#skillcircle-header .display-tc h1, #skillcircle-header .display-tc h2,
-#skillcircle-counter .display-tc h1,
-#skillcircle-counter .display-tc1,
-#skillcircle-counter .display-tc h1,
-.skillcircle-cover .display-tc h1 {
+#digiyouth-header .display-tc h
+#digiyouth-header .display-tc h1, #digiyouth-header .display-tc h2,
+#digiyouth-counter .display-tc h1,
+#digiyouth-counter .display-tc1,
+#digiyouth-counter .display-tc h1,
+.digiyouth-cover .display-tc h1 {
        margin-bottom: 10px;
     font-size: 39px;
     line-height: 42px;
     font-weight: 300;
 }
-#skillcircle-header .display-tc h1 b {
+#digiyouth-header .display-tc h1 b {
     margin-bottom: 10px;
     display: -webkit-box;
     font-size: 49px;
 }
 @media screen and (max-width: 768px) {
-  #skillcircle-header .display-tc h1,
-  #skillcircle-counter .display-tc h1,
-  .skillcircle-cover .display-tc h1 {
+  #digiyouth-header .display-tc h1,
+  #digiyouth-counter .display-tc h1,
+  .digiyouth-cover .display-tc h1 {
     font-size: 30px;
   }
   .aboutus_container .display-t {
     width: 100% !important;
   } 
 }
-#skillcircle-header .display-tc h2,
-#skillcircle-counter .display-tc h2,
-.skillcircle-cover .display-tc h2 {
+#digiyouth-header .display-tc h2,
+#digiyouth-counter .display-tc h2,
+.digiyouth-cover .display-tc h2 {
   font-size: 20px;
   line-height: 1.5;
   margin-bottom: 30px;
 }
-#skillcircle-header .display-tc .btn,
-#skillcircle-counter .display-tc .btn,
-.skillcircle-cover .display-tc .btn {
+#digiyouth-header .display-tc .btn,
+#digiyouth-counter .display-tc .btn,
+.digiyouth-cover .display-tc .btn {
   padding: 15px 30px;
   color: #fff;
   border: none !important;
   font-size: 18px;
 }
-#skillcircle-header .display-tc .btn.btn-video,
-#skillcircle-counter .display-tc .btn.btn-video,
-.skillcircle-cover .display-tc .btn.btn-video {
+#digiyouth-header .display-tc .btn.btn-video,
+#digiyouth-counter .display-tc .btn.btn-video,
+.digiyouth-cover .display-tc .btn.btn-video {
   background:rgb(7, 53, 203);
   border: none;
 }
-#skillcircle-header .display-tc .btn.btn-video:hover, #skillcircle-header .display-tc .btn.btn-video:focus,
-#skillcircle-counter .display-tc .btn.btn-video:hover,
-#skillcircle-counter .display-tc .btn.btn-video:focus,
-.skillcircle-cover .display-tc .btn.btn-video:hover,
-.skillcircle-cover .display-tc .btn.btn-video:focus {
+#digiyouth-header .display-tc .btn.btn-video:hover, #digiyouth-header .display-tc .btn.btn-video:focus,
+#digiyouth-counter .display-tc .btn.btn-video:hover,
+#digiyouth-counter .display-tc .btn.btn-video:focus,
+.digiyouth-cover .display-tc .btn.btn-video:hover,
+.digiyouth-cover .display-tc .btn.btn-video:focus {
   background: rgb(249, 178, 8) !important;
   color: #fff !important;
 }
-#skillcircle-header .display-tc .btn:hover, #skillcircle-header .display-tc .btn:focus,
-#skillcircle-counter .display-tc .btn:hover,
-#skillcircle-counter .display-tc .btn:focus,
-.skillcircle-cover .display-tc .btn:hover,
-.skillcircle-cover .display-tc .btn:focus {
+#digiyouth-header .display-tc .btn:hover, #digiyouth-header .display-tc .btn:focus,
+#digiyouth-counter .display-tc .btn:hover,
+#digiyouth-counter .display-tc .btn:focus,
+.digiyouth-cover .display-tc .btn:hover,
+.digiyouth-cover .display-tc .btn:focus {
   color: #fff !important;
 }
-#skillcircle-header .display-tc .btn.btn-learn,
-#skillcircle-counter .display-tc .btn.btn-learn,
-.skillcircle-cover .display-tc .btn.btn-learn {
+#digiyouth-header .display-tc .btn.btn-learn,
+#digiyouth-counter .display-tc .btn.btn-learn,
+.digiyouth-cover .display-tc .btn.btn-learn {
   background:rgb(233, 52, 10);
   border: none;
 }
-#skillcircle-header .display-tc .btn.btn-learn:hover, #skillcircle-header .display-tc .btn.btn-learn:focus,
-#skillcircle-counter .display-tc .btn.btn-learn:hover,
-#skillcircle-counter .display-tc .btn.btn-learn:focus,
-.skillcircle-cover .display-tc .btn.btn-learn:hover,
-.skillcircle-cover .display-tc .btn.btn-learn:focus {
+#digiyouth-header .display-tc .btn.btn-learn:hover, #digiyouth-header .display-tc .btn.btn-learn:focus,
+#digiyouth-counter .display-tc .btn.btn-learn:hover,
+#digiyouth-counter .display-tc .btn.btn-learn:focus,
+.digiyouth-cover .display-tc .btn.btn-learn:hover,
+.digiyouth-cover .display-tc .btn.btn-learn:focus {
   background: rgb(255, 181, 1) !important;
   color: #fff !important;
 }
-#skillcircle-header .display-tc .btn:hover,
-#skillcircle-counter .display-tc .btn:hover,
-.skillcircle-cover .display-tc .btn:hover {
+#digiyouth-header .display-tc .btn:hover,
+#digiyouth-counter .display-tc .btn:hover,
+.digiyouth-cover .display-tc .btn:hover {
   background: #e8340a;
   -webkit-box-shadow: 0px 14px 30px -15px rgba(0, 0, 0, 0.75) !important;
   -moz-box-shadow: 0px 14px 30px -15px rgba(0, 0, 0, 0.75) !important;
   box-shadow: 0px 14px 30px -15px rgba(0, 0, 0, 0.75) !important;
 }
-#skillcircle-header .display-tc .form-inline .form-group,
-#skillcircle-counter .display-tc .form-inline .form-group,
-.skillcircle-cover .display-tc .form-inline .form-group {
+#digiyouth-header .display-tc .form-inline .form-group,
+#digiyouth-counter .display-tc .form-inline .form-group,
+.digiyouth-cover .display-tc .form-inline .form-group {
   width: 100% !important;
   margin-bottom: 10px;
 }
-#skillcircle-header .display-tc .form-inline .form-group .form-control,
-#skillcircle-counter .display-tc .form-inline .form-group .form-control,
-.skillcircle-cover .display-tc .form-inline .form-group .form-control {
+#digiyouth-header .display-tc .form-inline .form-group .form-control,
+#digiyouth-counter .display-tc .form-inline .form-group .form-control,
+.digiyouth-cover .display-tc .form-inline .form-group .form-control {
   width: 100%;
   background: #fff;
   border: none;
 }
 
-.skillcircle-bg-section {
+.digiyouth-bg-section {
   background: rgba(0, 0, 0, 0.05);
 }
 
-#skillcircle-explore,
-#skillcircle-pricing,
-#skillcircle-testimonial,
-#skillcircle-started,
-#skillcircle-project,
-#skillcircle-blog,
-#skillcircle-contact,
-#skillcircle-footer {
+#digiyouth-explore,
+#digiyouth-pricing,
+#digiyouth-testimonial,
+#digiyouth-started,
+#digiyouth-project,
+#digiyouth-blog,
+#digiyouth-contact,
+#digiyouth-footer {
   padding: 7em 0;
   clear: both;
 }
 @media screen and (max-width: 768px) {
-  #skillcircle-explore,
-  #skillcircle-pricing,
-  #skillcircle-testimonial,
-  #skillcircle-started,
-  #skillcircle-project,
-  #skillcircle-blog,
-  #skillcircle-contact,
-  #skillcircle-footer {
+  #digiyouth-explore,
+  #digiyouth-pricing,
+  #digiyouth-testimonial,
+  #digiyouth-started,
+  #digiyouth-project,
+  #digiyouth-blog,
+  #digiyouth-contact,
+  #digiyouth-footer {
     padding: 3em 0;
   }
 }
 
-#skillcircle-counter {
+#digiyouth-counter {
   padding: 3em 0;
   clear: both;
       background-color: #f3f8fe;
 }
 
-#skillcircle-steps {
+#digiyouth-steps {
   clear: both;
   padding-bottom: 7em;
 }
 
-.skillcircle-counters {
+.digiyouth-counters {
   padding: 3em 0;
   background-size: cover;
   background-attachment: fixed;
   background-position: center center;
 }
-.skillcircle-counters .counter-wrap {
+.digiyouth-counters .counter-wrap {
   border: 1px solid red !important;
 }
-.skillcircle-counters .skillcircle-counter {
+.digiyouth-counters .digiyouth-counter {
  font-size: 80px;
     display: block;
     color: rgba(0, 0, 0, 0.7);
@@ -638,7 +638,7 @@ div#usps_container .col-md-4 {
     font-weight: bold;
     margin-bottom: -9px;
 }
-.skillcircle-counters .skillcircle-counter-label {
+.digiyouth-counters .digiyouth-counter-label {
         color: rgba(43, 43, 43, 0.85);
     text-transform: uppercase;
     font-size: 22px;
@@ -649,10 +649,10 @@ div#usps_container .col-md-4 {
     line-height: 20px;
     margin-top: -40px;
 }
-.skillcircle-counter-label.success_stories_plus {
-    margin-top: -55px;
+.digiyouth-counter-label.success_stories_plus {
+    
 }
-#skillcircle-explore .skillcircle-explore1 {
+#digiyouth-explore .digiyouth-explore1 {
   margin-bottom: 7em;
 }
 
@@ -694,11 +694,11 @@ div#usps_container .col-md-4 {
   color: #e8340a;
 }
 
-.skillcircle-social-icons {
+.digiyouth-social-icons {
   margin: 0;
   padding: 0;
 }
-.skillcircle-social-icons li {
+.digiyouth-social-icons li {
   margin: 0;
   padding: 0;
   list-style: none;
@@ -707,7 +707,7 @@ div#usps_container .col-md-4 {
   zoom: 1;
   *display: inline;
 }
-.skillcircle-social-icons li a {
+.digiyouth-social-icons li a {
   display: -moz-inline-stack;
   display: inline-block;
   zoom: 1;
@@ -716,21 +716,21 @@ div#usps_container .col-md-4 {
   padding-left: 10px;
   padding-right: 10px;
 }
-.skillcircle-social-icons li a i {
+.digiyouth-social-icons li a i {
   font-size: 20px;
 }
 
-.skillcircle-contact-info ul {
+.digiyouth-contact-info ul {
   padding: 0;
   margin: 0;
 }
-.skillcircle-contact-info ul li {
+.digiyouth-contact-info ul li {
   padding: 0 0 0 40px;
   margin: 0 0 30px 0;
   list-style: none;
   position: relative;
 }
-.skillcircle-contact-info ul li:before {
+.digiyouth-contact-info ul li:before {
   color: #e8340a;
   position: absolute;
   left: 0;
@@ -746,26 +746,26 @@ div#usps_container .col-md-4 {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
-.skillcircle-contact-info ul li.address:before {
+.digiyouth-contact-info ul li.address:before {
   font-size: 30px;
   content: "\e9d1";
 }
-.skillcircle-contact-info ul li.phone:before {
+.digiyouth-contact-info ul li.phone:before {
   font-size: 23px;
   content: "\e9f4";
 }
-.skillcircle-contact-info ul li.email:before {
+.digiyouth-contact-info ul li.email:before {
   font-size: 23px;
   content: "\e9da";
 }
-.skillcircle-contact-info ul li.url:before {
+.digiyouth-contact-info ul li.url:before {
   font-size: 23px;
   content: "\e9af";
 }
 .proj-bottom {
   padding-bottom: 4em;
 }
-.skillcircle-project {
+.digiyouth-project {
     margin-bottom: 30px;
     border: solid 1px #e0e0e0;
     border-radius: 8px;
@@ -775,7 +775,7 @@ div#usps_container .col-md-4 {
     padding: 12px;
         min-height: 485px;
 }
-.skillcircle-project > a {
+.digiyouth-project > a {
   display: block;
   color: #000;
   position: relative;
@@ -785,7 +785,7 @@ div#usps_container .col-md-4 {
   -o-transition: 0.5s;
   transition: 0.5s;
 }
-.skillcircle-project h3 {
+.digiyouth-project h3 {
     text-align: left;
     margin-top: 20px;
     margin-bottom: 0px !important;
@@ -805,14 +805,14 @@ div#usps_container .col-md-4 {
 /*.view_course:hover {
   color: #fff !important;
 }*/
-.skillcircle-project > a img {
+.digiyouth-project > a img {
   position: relative;
   -webkit-transition: 0.5s;
   -o-transition: 0.5s;
   transition: 0.5s;
       width: 100%;
 }
-.skillcircle-project > a:after {
+.digiyouth-project > a:after {
  /* opacity: 0;
   visibility: hidden;
   content: "";
@@ -831,12 +831,12 @@ div#usps_container .col-md-4 {
   -o-transition: 0.5s;
   transition: 0.5s;*/
 }
-div#skillcircle-project p {
+div#digiyouth-project p {
     margin-top: 10px;
     line-height: 20px;
     font-size: 16px;
 }
-.skillcircle-project > a h3, .skillcircle-project > a span {
+.digiyouth-project > a h3, .digiyouth-project > a span {
   z-index: 12;
   position: absolute;
   right: 20px;
@@ -853,16 +853,16 @@ div#skillcircle-project p {
   -o-transition: 0.3s;
   transition: 0.3s;
 }
-.skillcircle-project > a span {
+.digiyouth-project > a span {
   font-size: 14px;
   bottom: 20px;
 }
-.skillcircle-project > a:hover {
+.digiyouth-project > a:hover {
   -webkit-box-shadow:0px 14px 3px -10px rgba(0, 0, 0, 0.75);
   -moz-box-shadow: 0px 14px 3px -10px rgba(0, 0, 0, 0.75);
   box-shadow: 0px 14px 3px -10px rgba(0, 0, 0, 0.75);
 }
-.skillcircle-project:hover .courses_img {
+.digiyouth-project:hover .courses_img {
     -webkit-box-shadow: 0px 14px 3px -10px rgba(0, 0, 0, 0.75);
     -moz-box-shadow: 0px 14px 3px -10px rgba(0, 0, 0, 0.75);
     box-shadow: 0px 14px 3px -10px rgba(0, 0, 0, 0.75);
@@ -871,31 +871,31 @@ div#skillcircle-project p {
 .courses_img {
   margin-left: -26px;
 }
-.skillcircle-project > a:hover:after {
+.digiyouth-project > a:hover:after {
   opacity: 1;
   visibility: visible;
 }
 @media screen and (max-width: 768px) {
-  .skillcircle-project > a:hover:after {
+  .digiyouth-project > a:hover:after {
     opacity: 0;
     visibility: hidden;
   }
 }
-.skillcircle-project > a:hover h3, .skillcircle-project > a:hover span {
+.digiyouth-project > a:hover h3, .digiyouth-project > a:hover span {
   opacity: 1;
   bottom: 55px;
 }
-.skillcircle-project > a:hover span {
+.digiyouth-project > a:hover span {
   bottom: 15px;
 }
-.skillcircle-project > a:hover img {
+.digiyouth-project > a:hover img {
   -webkit-transform: scale(1.1);
   -moz-transform: scale(1.1);
   -o-transform: scale(1.1);
   transform: scale(1.1);
 }
 @media screen and (max-width: 768px) {
-  .skillcircle-project > a:hover img {
+  .digiyouth-project > a:hover img {
     -webkit-transform: scale(1);
     -moz-transform: scale(1);
     -o-transform: scale(1);
@@ -909,25 +909,25 @@ div#skillcircle-project p {
   float: left;
 }
 
-.skillcircle-heading {
+.digiyouth-heading {
   margin-bottom: 20px;
 }
-.skillcircle-heading.skillcircle-heading-sm {
+.digiyouth-heading.digiyouth-heading-sm {
   margin-bottom: 2em;
 }
-.skillcircle-heading h2 {
+.digiyouth-heading h2 {
   font-size: 32px;
   margin-bottom: 20px;
   line-height: 1.5;
   color: #000;
   font-weight: bold;
 }
-.skillcircle-heading p {
+.digiyouth-heading p {
   font-size: 18px;
   line-height: 1.5;
   color: #828282;
 }
-.skillcircle-heading span {
+.digiyouth-heading span {
   display: block;
   margin-bottom: 10px;
   text-transform: uppercase;
@@ -935,20 +935,20 @@ div#skillcircle-project p {
   letter-spacing: 2px;
 }
 
-#skillcircle-testimonial {
+#digiyouth-testimonial {
   background: #fff;
 }
-#skillcircle-testimonial .testimony-slide {
+#digiyouth-testimonial .testimony-slide {
   text-align: center;
 }
-#skillcircle-testimonial .testimony-slide span {
+#digiyouth-testimonial .testimony-slide span {
   font-size: 12px;
   text-transform: uppercase;
   letter-spacing: 2px;
   font-weight: 700;
   display: block;
 }
-#skillcircle-testimonial .testimony-slide figure {
+#digiyouth-testimonial .testimony-slide figure {
       margin-bottom: 21px;
     display: -moz-inline-stack;
     display: block;
@@ -958,7 +958,7 @@ div#skillcircle-project p {
     margin-top:18px;
         width: 94%;
 }
-#skillcircle-testimonial .testimony-slide figure img {
+#digiyouth-testimonial .testimony-slide figure img {
       width: 90px;
     height: 90px;
     -webkit-border-radius: 50%;
@@ -972,7 +972,7 @@ a.testimonials_linkedin {
     font-size: 32px;
     color: #0077b5;
 }
-#skillcircle-testimonial .testimony-slide blockquote {
+#digiyouth-testimonial .testimony-slide blockquote {
   border: none;
     margin: auto;
     width: 96%;
@@ -987,21 +987,21 @@ a.testimonials_linkedin {
     font-size: 16px;
 }
 @media screen and (max-width: 992px) {
-  #skillcircle-testimonial .testimony-slide blockquote {
+  #digiyouth-testimonial .testimony-slide blockquote {
     width: 100%;
   }
 }
-#skillcircle-testimonial .arrow-thumb {
+#digiyouth-testimonial .arrow-thumb {
   position: absolute;
   top: 40%;
   display: block;
   width: 100%;
 }
-#skillcircle-testimonial .arrow-thumb a {
+#digiyouth-testimonial .arrow-thumb a {
   font-size: 32px;
   color: #dadada;
 }
-#skillcircle-testimonial .arrow-thumb a:hover, #skillcircle-testimonial .arrow-thumb a:focus, #skillcircle-testimonial .arrow-thumb a:active {
+#digiyouth-testimonial .arrow-thumb a:hover, #digiyouth-testimonial .arrow-thumb a:focus, #digiyouth-testimonial .arrow-thumb a:active {
   text-decoration: none;
 }
 
@@ -1105,7 +1105,7 @@ a.testimonials_linkedin {
 .bs-wizard > .bs-wizard-step.disabled a.bs-wizard-dot {
   pointer-events: none;
 }
-div#skillcircle-started input {
+div#digiyouth-started input {
         margin-bottom: 17px;
     padding: 5px 10px;
     margin-left: 10px;
@@ -1115,7 +1115,7 @@ div#skillcircle-started input {
     border-radius: 35px;
     border: solid 1px #a2adbb;
 }
-#skillcircle-started {
+#digiyouth-started {
       background-size: cover;
     background-position: top center;
     background-repeat: no-repeat;
@@ -1126,7 +1126,7 @@ div#skillcircle-started input {
     padding-bottom: 50px;
     background: #f3f8fe;
 }
-#skillcircle-started .overlay {
+#digiyouth-started .overlay {
   z-index: 0;
   position: absolute;
   bottom: 0;
@@ -1135,14 +1135,14 @@ div#skillcircle-started input {
   right: 0;
   background: rgba(0, 0, 0, 0.7);
 }
-#skillcircle-started .skillcircle-heading h2 {
+#digiyouth-started .digiyouth-heading h2 {
   color: #060606;
     margin-bottom: 0px !important;
 }
-#skillcircle-started .skillcircle-heading p {
+#digiyouth-started .digiyouth-heading p {
   color: rgba(255, 255, 255, 0.5);
 }
-#skillcircle-started .form-control {
+#digiyouth-started .form-control {
   background: rgba(255, 255, 255, 0.2);
   border: none !important;
   color: #fff;
@@ -1152,24 +1152,24 @@ div#skillcircle-started input {
   -o-transition: 0.5s;
   transition: 0.5s;
 }
-#skillcircle-started .form-control::-webkit-input-placeholder {
+#digiyouth-started .form-control::-webkit-input-placeholder {
   color: #fff;
 }
-#skillcircle-started .form-control:-moz-placeholder {
+#digiyouth-started .form-control:-moz-placeholder {
   /* Firefox 18- */
   color: #fff;
 }
-#skillcircle-started .form-control::-moz-placeholder {
+#digiyouth-started .form-control::-moz-placeholder {
   /* Firefox 19+ */
   color: #fff;
 }
-#skillcircle-started .form-control:-ms-input-placeholder {
+#digiyouth-started .form-control:-ms-input-placeholder {
   color: #fff;
 }
-#skillcircle-started .form-control:focus {
+#digiyouth-started .form-control:focus {
   background: rgba(255, 255, 255, 0.3);
 }
-#skillcircle-started .btn {
+#digiyouth-started .btn {
   height: 37px;
   border: none !important;
   background: #e9330b;
@@ -1180,36 +1180,36 @@ div#skillcircle-started input {
   padding-left: 50px;
   padding-right: 50px;
 }
-#skillcircle-started .form-inline .form-group {
+#digiyouth-started .form-inline .form-group {
   width: 100% !important;
   margin-bottom: 10px;
 }
-#skillcircle-started .form-inline .form-group .form-control {
+#digiyouth-started .form-inline .form-group .form-control {
   width: 100%;
 }
 
-.skillcircle-blog {
+.digiyouth-blog {
   margin-bottom: 60px;
 }
-.skillcircle-blog > a {
+.digiyouth-blog > a {
   display: block;
   position: relative;
   -webkit-transition: 0.5s;
   -o-transition: 0.5s;
   transition: 0.5s;
 }
-.skillcircle-blog > a img {
+.digiyouth-blog > a img {
      width: 136px;
     margin: auto;
 }
 @media screen and (max-width: 768px) {
-    .skillcircle-blog {
+    .digiyouth-blog {
       width: 100%;
     }
     div#Career_Transitions .nav li {
         width: 100%;
     }
-    #skillcircle-footer .skillcircle-footer-links {
+    #digiyouth-footer .digiyouth-footer-links {
       margin-bottom: 25px !important;
     }
     div#upcoming_events_container .col-md-6 {
@@ -1256,7 +1256,7 @@ div#sideNavbar {
 
 
 }
-.skillcircle-blog .blog-text {
+.digiyouth-blog .blog-text {
   margin-bottom: 30px;
   position: relative;
   background: #fff;
@@ -1268,27 +1268,27 @@ div#sideNavbar {
   -moz-box-shadow: 0px 10px 20px -12px rgba(0, 0, 0, 0.18);
   box-shadow: 0px 10px 20px -12px rgba(0, 0, 0, 0.18);*/
 }
-.skillcircle-blog .blog-text span {
+.digiyouth-blog .blog-text span {
   display: inline-block;
   margin-bottom: 20px;
 }
-.skillcircle-blog .blog-text span.comment {
+.digiyouth-blog .blog-text span.comment {
   float: right;
 }
-.skillcircle-blog .blog-text span.comment a {
+.digiyouth-blog .blog-text span.comment a {
   color: rgba(0, 0, 0, 0.3);
 }
-.skillcircle-blog .blog-text span.comment a i {
+.digiyouth-blog .blog-text span.comment a i {
   color: #e8340a;
   padding-left: 7px;
 }
-.skillcircle-blog .blog-text h3 {
+.digiyouth-blog .blog-text h3 {
  font-size: 17px;
     margin-bottom: 20px;
     line-height: 20px;
     text-align: center;
 }
-.skillcircle-blog .blog-text h3 a {
+.digiyouth-blog .blog-text h3 a {
   color: black;
 }
 
@@ -1373,41 +1373,41 @@ div#sideNavbar {
   color: #888f94;
 }
 
-#skillcircle-footer {
+#digiyouth-footer {
   background: #fff;
 }
-#skillcircle-footer .skillcircle-footer-links {
+#digiyouth-footer .digiyouth-footer-links {
   padding: 0;
   margin: 0;
 }
-#skillcircle-footer .skillcircle-footer-links li {
+#digiyouth-footer .digiyouth-footer-links li {
   padding: 0;
   margin: 0;
   list-style: none;
 }
-#skillcircle-footer .skillcircle-footer-links li a {
+#digiyouth-footer .digiyouth-footer-links li a {
   color: rgba(0, 0, 0, 0.5);
   text-decoration: none;
 }
-#skillcircle-footer .skillcircle-footer-links li a:hover {
+#digiyouth-footer .digiyouth-footer-links li a:hover {
   text-decoration: underline;
 }
-#skillcircle-footer .skillcircle-widget {
+#digiyouth-footer .digiyouth-widget {
   margin-bottom: 30px;
 }
 @media screen and (max-width: 768px) {
-  #skillcircle-footer .skillcircle-widget {
+  #digiyouth-footer .digiyouth-widget {
     text-align: left;
   }
 }
-#skillcircle-footer .skillcircle-widget h3 {
+#digiyouth-footer .digiyouth-widget h3 {
   margin-bottom: 15px;
   font-weight: bold;
   font-size: 15px;
   letter-spacing: 2px;
   text-transform: uppercase;
 }
-#skillcircle-footer .copyright .block {
+#digiyouth-footer .copyright .block {
   display: block;
 }
 
@@ -1422,7 +1422,7 @@ div#sideNavbar {
   }
 }
 
-#skillcircle-offcanvas {
+#digiyouth-offcanvas {
   position: absolute;
   z-index: 1901;
   width: 100%;
@@ -1448,7 +1448,7 @@ div#sideNavbar {
     background-size: 100% !important;
     min-height: 136px !important;
 }
-  #skillcircle-offcanvas {
+  #digiyouth-offcanvas {
     display: block;
   }
   div#usps_container p {
@@ -1458,41 +1458,41 @@ div#sideNavbar {
   }
   
 }
-.offcanvas #skillcircle-offcanvas {
+.offcanvas #digiyouth-offcanvas {
   -moz-transform: translateX(0px);
   -webkit-transform: translateX(0px);
   -ms-transform: translateX(0px);
   -o-transform: translateX(0px);
   transform: translateX(0px);
 }
-#skillcircle-offcanvas a {
+#digiyouth-offcanvas a {
   color: rgba(255, 255, 255, 0.5);
       font-size: 20px;
 }
-div#skillcircle-offcanvas ul ul li a {
+div#digiyouth-offcanvas ul ul li a {
     font-size: 18px;
 }
-#skillcircle-offcanvas a:hover {
+#digiyouth-offcanvas a:hover {
   color: rgba(255, 255, 255, 0.8);
 }
-#skillcircle-offcanvas ul {
+#digiyouth-offcanvas ul {
   padding: 0;
   margin: 0;
 }
-#skillcircle-offcanvas ul li {
+#digiyouth-offcanvas ul li {
   padding: 0;
   margin: 0;
   list-style: none;
 }
-#skillcircle-offcanvas ul li > ul {
+#digiyouth-offcanvas ul li > ul {
   padding-left: 20px;
   display: none;
 }
-#skillcircle-offcanvas ul li.offcanvas-has-dropdown > a {
+#digiyouth-offcanvas ul li.offcanvas-has-dropdown > a {
   display: block;
   position: relative;
 }
-#skillcircle-offcanvas ul li.offcanvas-has-dropdown > a:after {
+#digiyouth-offcanvas ul li.offcanvas-has-dropdown > a:after {
   position: absolute;
   right: 0px;
   font-family: 'icomoon';
@@ -1512,7 +1512,7 @@ div#skillcircle-offcanvas ul ul li a {
   -o-transition: 0.5s;
   transition: 0.5s;
 }
-#skillcircle-offcanvas ul li.offcanvas-has-dropdown.active a:after {
+#digiyouth-offcanvas ul li.offcanvas-has-dropdown.active a:after {
   -webkit-transform: rotate(-180deg);
   -moz-transform: rotate(-180deg);
   -ms-transform: rotate(-180deg);
@@ -1565,20 +1565,20 @@ div#skillcircle-offcanvas ul ul li a {
   outline: none;
 }
 
-.skillcircle-nav-toggle {
+.digiyouth-nav-toggle {
   width: 25px;
   height: 25px;
   cursor: pointer;
   text-decoration: none;
 }
-.skillcircle-nav-toggle.active i::before, .skillcircle-nav-toggle.active i::after {
+.digiyouth-nav-toggle.active i::before, .digiyouth-nav-toggle.active i::after {
   background: #fff !important;
 }
-.skillcircle-nav-toggle:hover, .skillcircle-nav-toggle:focus, .skillcircle-nav-toggle:active {
+.digiyouth-nav-toggle:hover, .digiyouth-nav-toggle:focus, .digiyouth-nav-toggle:active {
   outline: none;
   border-bottom: none !important;
 }
-.skillcircle-nav-toggle i {
+.digiyouth-nav-toggle i {
   position: relative;
   display: inline-block;
   width: 25px;
@@ -1590,7 +1590,7 @@ div#skillcircle-offcanvas ul ul li a {
   background: #252525;
   transition: all .2s ease-out;
 }
-.skillcircle-nav-toggle i::before, .skillcircle-nav-toggle i::after {
+.digiyouth-nav-toggle i::before, .digiyouth-nav-toggle i::after {
   content: '';
   width: 25px;
   height: 2px;
@@ -1599,35 +1599,35 @@ div#skillcircle-offcanvas ul ul li a {
   left: 0;
   transition: all .2s ease-out;
 }
-.skillcircle-nav-toggle.skillcircle-nav-white > i {
+.digiyouth-nav-toggle.digiyouth-nav-white > i {
   color: #000;
   background: #000;
 }
-.skillcircle-nav-toggle.skillcircle-nav-white > i::before, .skillcircle-nav-toggle.skillcircle-nav-white > i::after {
+.digiyouth-nav-toggle.digiyouth-nav-white > i::before, .digiyouth-nav-toggle.digiyouth-nav-white > i::after {
   background: #000;
 }
 
-.skillcircle-nav-toggle i::before {
+.digiyouth-nav-toggle i::before {
   top: -7px;
 }
 
-.skillcircle-nav-toggle i::after {
+.digiyouth-nav-toggle i::after {
   bottom: -7px;
 }
 
-.skillcircle-nav-toggle:hover i::before {
+.digiyouth-nav-toggle:hover i::before {
   top: -10px;
 }
 
-.skillcircle-nav-toggle:hover i::after {
+.digiyouth-nav-toggle:hover i::after {
   bottom: -10px;
 }
 
-.skillcircle-nav-toggle.active i {
+.digiyouth-nav-toggle.active i {
   background: transparent;
 }
 
-.skillcircle-nav-toggle.active i::before {
+.digiyouth-nav-toggle.active i::before {
   top: 0;
   -webkit-transform: rotateZ(45deg);
   -moz-transform: rotateZ(45deg);
@@ -1636,7 +1636,7 @@ div#skillcircle-offcanvas ul ul li a {
   transform: rotateZ(45deg);
 }
 
-.skillcircle-nav-toggle.active i::after {
+.digiyouth-nav-toggle.active i::after {
   bottom: 0;
   -webkit-transform: rotateZ(-45deg);
   -moz-transform: rotateZ(-45deg);
@@ -1645,7 +1645,7 @@ div#skillcircle-offcanvas ul ul li a {
   transform: rotateZ(-45deg);
 }
 
-.skillcircle-nav-toggle {
+.digiyouth-nav-toggle {
       position: absolute;
     right: 17px;
     top: 13px;
@@ -1660,7 +1660,7 @@ div#skillcircle-offcanvas ul ul li a {
   border-bottom: none !important;
 }
 @media screen and (max-width: 768px) {
-  .skillcircle-nav-toggle {
+  .digiyouth-nav-toggle {
     display: block;
   }
   #why_cdmm .cdmm_grid_content .col-md-6 {
@@ -1672,13 +1672,13 @@ div#skillcircle-offcanvas ul ul li a {
 div#OPPORTUNITY_DIGITAL_MARKETING .col-md-4 {
     width: 100% !important;
 }
-  div#skillcircle-logo img {
+  div#digiyouth-logo img {
     width: 188px !important;
   }
-  .skillcircle-nav .top {
+  .digiyouth-nav .top {
     display: none;
   }
-  .skillcircle-nav .col-md-6.text-left {
+  .digiyouth-nav .col-md-6.text-left {
     text-align: center !important;
   }
   .Our_Founders img {
@@ -1922,7 +1922,7 @@ div.inner_banner h1 {
   padding-bottom: 2em !important;
 }
 
-.skillcircle-loader {
+.digiyouth-loader {
   position: fixed;
   left: 0px;
   top: 0px;
@@ -1937,7 +1937,7 @@ div.inner_banner h1 {
 }
 
 
-.container.skillcircle_counter_content .counter_img {
+.container.digiyouth_counter_content .counter_img {
     width: 150px;
     height: 150px;
     border-radius: 100%;
@@ -1955,12 +1955,12 @@ span.counter_percent {
     color: #494a4c;
     font-weight: bold;
 }
-.skillcircle_counter_succ_story span.counter_percent {
+.digiyouth_counter_succ_story span.counter_percent {
  margin-right: -249px;
     font-size: 72px;
     margin-top: -130px;
 }
-.skillcircle_counter_content .counter_percent1 {
+.digiyouth_counter_content .counter_percent1 {
  margin-right:-198px;
 }
 
@@ -2059,11 +2059,11 @@ span.counter_percent {
   }
 }
 
-#skillcircle_our_partners {
+#digiyouth_our_partners {
     background: #fff;
     clear: both;
 }
-#skillcircle_our_partners .owl-controls {
+#digiyouth_our_partners .owl-controls {
   margin-bottom: 50px;
 }
 .partners_slide {
@@ -2083,18 +2083,18 @@ span.counter_percent {
      -webkit-filter: grayscale(0%); /* Safari 6.0 - 9.0 */
   filter: grayscale(0%);
 }
-#skillcircle_single_testimonial {
+#digiyouth_single_testimonial {
   margin-top:60px;
     margin-bottom:100px;
 }
-#skillcircle_single_testimonial .single_testimonial_content{
+#digiyouth_single_testimonial .single_testimonial_content{
   background-color: #fff;
   box-shadow: 0 5px 12px 0 rgba(0,0,0,.2);
   border-radius: 10px;
   padding:20px;
   height: 491px;
 }
-#skillcircle_single_testimonial .single_testimonial_img{
+#digiyouth_single_testimonial .single_testimonial_img{
 box-shadow: 0 5px 12px 0 rgba(0,0,0,.2);
     background-color: #fff;
     border-radius: 10px;
@@ -2106,7 +2106,7 @@ box-shadow: 0 5px 12px 0 rgba(0,0,0,.2);
     background-size: cover;
     background-repeat: no-repeat;
 }
-#skillcircle_single_testimonial .single_testimonial_img img {
+#digiyouth_single_testimonial .single_testimonial_img img {
   width: 100%;
     border-radius: 10px;
 }
@@ -2180,13 +2180,13 @@ div#usps_container h2 {
 div#usps_container .row {
     margin-bottom: 30px;
 }
-div#skillcircle-project {
+div#digiyouth-project {
     padding-bottom: 0;
 }
-div#skillcircle-testimonial .owl-carousel .owl-stage-outer {
+div#digiyouth-testimonial .owl-carousel .owl-stage-outer {
     height: 100% !important;
 }
-div#skillcircle-testimonial .col-md-6.animate-box {
+div#digiyouth-testimonial .col-md-6.animate-box {
     background: #ffffff;
     padding: 0;
     box-shadow: 0 5px 12px 0 rgba(0,0,0,.2);
@@ -3768,7 +3768,7 @@ div#Join_Every_Day .apply_now {
     margin-bottom: 7px !important;
     font-size: 18px;
 }
-#skillcircle-testimonial .owl-theme .owl-controls {
+#digiyouth-testimonial .owl-theme .owl-controls {
     margin-top: 5px !important;
     position: absolute;
     bottom: 0;

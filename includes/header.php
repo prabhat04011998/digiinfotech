@@ -9,6 +9,7 @@
 
 <link rel="stylesheet" href="css/iconmoon.css">
 <link rel="stylesheet" type="text/css" href="css/digiyouth.css">
+<link rel="stylesheet" type="text/css" href="https://www.skillcircle.in/css/animate.css">
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
 	<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/owl-carousel/1.3.3/owl.carousel.css">
 	<script type="text/javascript" src="js/main.js"></script>
@@ -45,9 +46,33 @@
 
 <header id="home">
 
-<!-- <div class="bg-img" style="background-image: url('./img/background1.jpg');">
-<div class="overlay"></div>
-</div> -->
+<!-- upper bar -->
+
+<div class="upperHeader" style="height: 40px">
+    
+    <div style="text-align: left;">
+      <span>
+      <ul style="text-align:left;display: inline;">
+      <li style="float: left;padding: 10px"><i class="glyphicon glyphicon-earphone" style="margin-right: 4px"></i>+91 9873055222 </li>
+      <li style="float: left;padding: 10px"><i class="glyphicon glyphicon-envelope" style="margin-right: 4px"></i><a style="text-decoration: none;color: inherit;" href="mailto:digiyouthinfotech@gmail.com">digiyouthinfotech@gmail.com</a></li>
+    </ul>
+    </span>
+    <span>
+
+    <ul style="text-align: right;display: inline;">
+      <li style="float: right;padding: 10px"><a href="#" style="text-decoration: none;color: inherit;">Business Consultation</a></li>
+      <li style="float: right;padding: 10px" ><a href="./#blog" style="text-decoration: none;color:inherit;">Blog</a></li>
+      <li style="float:right; padding: 10px" ><a href="./contact.php" style="text-decoration: none;color:inherit;">Contact</a></li>
+    </ul>
+  </span>
+    
+    </div>
+
+  </div>
+
+
+<!-- navbar starting -->
+
 <nav id="nav" class="navbar nav-transparent navbar-dark bg-dark" style="background: #000;">
 <div class="container">
 <div class="navbar-header">

@@ -25,7 +25,7 @@
       <div class="item">
         <img src="img/carousel2.jpeg" alt="Chicago" style="width:100%;">
       </div>
-    f
+    
       <div class="item">
         <img src="img/carousel3.jpeg" alt="New york" style="width:100%;">
       </div>
@@ -133,12 +133,38 @@
 </div>
 
 
+<!-- Counter Start -->
+
+<div id="digiyouth-counter" class="digiyouth-counters animated">
+    <div class="container digiyouth_counter_content">
+      <div class="row">
+        <div class="col-md-4 text-center animate-box fadeInUp animated-fast">
+          <!-- <div class="counter_img" style="background-image: url(images/counter/happy_trainees.jpg);"></div> -->
+          <span class="digiyouth-counter js-counter" data-from="0" data-to="2000" data-speed="5000" data-refresh-interval="50">2000</span><span class="counter_percent">+</span><!-- <span class="counter_percent">%</span> -->
+          <div class="digiyouth-counter-label">Hours <br>Of Learning</div>
+        </div>
+        <div class="col-md-4 text-center animate-box digiyouth_counter_succ_story fadeInUp animated-fast">
+          <!-- <div class="counter_img" style="background-image: url(images/counter/success_stories.jpg);"></div> -->
+          <span class="digiyouth-counter js-counter" data-from="0" data-to="200" data-speed="5000" data-refresh-interval="50">200</span><span class="counter_percent">+</span>
+          <div class="digiyouth-counter-label success_stories_plus">Graduated <br>Students</div>
+        </div>
+        <div class="col-md-4 text-center animate-box fadeInUp animated-fast">
+          <!-- <div class="counter_img" style="background-image: url(images/counter/jobs_assistance.jpg);"></div> -->
+          <span class="digiyouth-counter js-counter" data-from="0" data-to="20" data-speed="5000" data-refresh-interval="50">20</span><span class="counter_percent counter_percent1">+</span>
+          <div class="digiyouth-counter-label">Partner <br>Companies</div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+
+
 <!-- testinomials -->
 
 <?php include 'includes/testimonial.php' ?>
 
 
-
+<!-- portfolio/featured work -->
 
 <div id="portfolio" class="section md-padding bg-grey">
 
@@ -152,84 +178,85 @@
 
 
 <div class="col-md-4 col-xs-6 work">
-<img class="img-responsive" src="./img/work1.png" alt="">
+<img class="img-responsive" src="./img/sample1.png" alt="">
 <div class="overlay"></div>
 <div class="work-content">
 <span>Category</span>
-<h3>Lorem ipsum dolor</h3>
+<h3>Social Media Marketing & SEO</h3>
 <div class="work-link">
-<a href="#"><i class="fa fa-external-link"></i></a>
-<a class="lightbox" href="./img/work1.png"><i class="fa fa-search"></i></a>
+<a href="https://lensationimagix.com/"><i class="fa fa-external-link"></i></a>
+<a class="lightbox" href="./img/sample1.png"><i class="fa fa-search"></i></a>
 </div>
 </div>
 </div>
 
 
 <div class="col-md-4 col-xs-6 work">
-<img class="img-responsive" src="./img/work2.png" alt="">
+<img class="img-responsive" src="./img/sample2.png" alt="">
 <div class="overlay"></div>
 <div class="work-content">
 <span>Category</span>
-<h3>Lorem ipsum dolor</h3>
+<h3>Content & Social Media Marketing</h3>
 <div class="work-link">
-<a href="#"><i class="fa fa-external-link"></i></a>
-<a class="lightbox" href="./img/work2.png"><i class="fa fa-search"></i></a>
+<a href="https://atmyhome.in/"><i class="fa fa-external-link"></i></a>
+<a class="lightbox" href="./img/sample2.png"><i class="fa fa-search"></i></a>
 </div>
 </div>
 </div>
 
 
 <div class="col-md-4 col-xs-6 work">
-<img class="img-responsive" src="./img/work3.jpg" alt="">
+<img class="img-responsive" src="./img/sample3.png" alt="">
 <div class="overlay"></div>
 <div class="work-content">
 <span>Category</span>
-<h3>Lorem ipsum dolor</h3>
+<h3>Website Development</h3>
 <div class="work-link">
-<a href="#"><i class="fa fa-external-link"></i></a>
+<a href="http://fitnesslove.info/"><i class="fa fa-external-link"></i></a>
 <a class="lightbox" href="./img/work3.jpg"><i class="fa fa-search"></i></a>
 </div>
 </div>
 </div>
 
-
+</div>
+<div class="row">
 <div class="col-md-4 col-xs-6 work">
-<img class="img-responsive" src="./img/work4.png" alt="">
+<img class="img-responsive" src="./img/sample4.png" alt="">
 <div class="overlay"></div>
 <div class="work-content">
 <span>Category</span>
-<h3>Lorem ipsum dolor</h3>
+<h3>Website Develoment ,SEO , SMM</h3>
 <div class="work-link">
-<a href="#"><i class="fa fa-external-link"></i></a>
-<a class="lightbox" href="./img/work4.png"><i class="fa fa-search"></i></a>
-</div>
-</div>
-</div>
-
-
-<div class="col-md-4 col-xs-6 work">
-<img class="img-responsive" src="./img/work5.png" alt="">
-<div class="overlay"></div>
-<div class="work-content">
-<span>Category</span>
-<h3>Lorem ipsum dolor</h3>
-<div class="work-link">
-<a href="#"><i class="fa fa-external-link"></i></a>
-<a class="lightbox" href="./img/work5.png"><i class="fa fa-search"></i></a>
+<a href="./"><i class="fa fa-external-link"></i></a>
+<a class="lightbox" href="./img/sample4.png"><i class="fa fa-search"></i></a>
 </div>
 </div>
 </div>
 
 
 <div class="col-md-4 col-xs-6 work">
-<img class="img-responsive" src="./img/work6.jpg" alt="">
+<img class="img-responsive" src="./img/sample1.png" alt="">
 <div class="overlay"></div>
 <div class="work-content">
 <span>Category</span>
 <h3>Lorem ipsum dolor</h3>
 <div class="work-link">
 <a href="#"><i class="fa fa-external-link"></i></a>
-<a class="lightbox" href="./img/work6.jpg"><i class="fa fa-search"></i></a>
+<a class="lightbox" href="./img/sample1.png"><i class="fa fa-search"></i></a>
+</div>
+</div>
+</div>
+
+
+<div class="col-md-4 col-xs-6 work">
+<img class="img-responsive" src="./img/sample2.png" alt="">
+<div class="overlay"></div>
+<div class="work-content">
+<span>Category</span>
+<h3>Lorem ipsum dolor</h3>
+<div class="work-link">
+<a href="#"><i class="fa fa-external-link"></i></a>
+<a class="lightbox" href="./img/sample2.png"><i class="fa fa-search"></i></a>
 </div>
 </div>
 </div>
@@ -288,59 +315,8 @@
 </div>
 
 
-<div id="numbers" class="section sm-padding">
 
-<div class="bg-img" style="background-image: url('./img/background2.png');">
-<div class="overlay"></div>
-</div>
-
-
-<div class="container">
-
-<div class="row">
-
-<div class="col-sm-3 col-xs-6">
-<div class="number">
-<i class="fa fa-users"></i>
-<h3 class="white-text"><span class="counter">451</span></h3>
-<span class="white-text">Happy clients</span>
-</div>
-</div>
-
-
-<div class="col-sm-3 col-xs-6">
-<div class="number">
-<i class="fa fa-trophy"></i>
-<h3 class="white-text"><span class="counter">12</span></h3>
-<span class="white-text">Awards won</span>
-</div>
-</div>
-
-
-<div class="col-sm-3 col-xs-6">
-<div class="number">
-<i class="fa fa-coffee"></i>
-<h3 class="white-text"><span class="counter">154</span>K</h3>
-<span class="white-text">Cups of Coffee</span>
-</div>
-</div>
-
-
-<div class="col-sm-3 col-xs-6">
-<div class="number">
-<i class="fa fa-file"></i>
-<h3 class="white-text"><span class="counter">45</span></h3>
-<span class="white-text">Projects completed</span>
-</div>
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-
+<!-- Quote start -->
 
 
 <div id="quote" class="section md-padding">
@@ -363,7 +339,7 @@
 </div>
 
 </div>
-
+<!-- 
 
 <div id="blog" class="section md-padding bg-grey">
 
@@ -438,6 +414,8 @@
 
 </div>
 
+ -->
+
 
 
 
@@ -459,7 +437,19 @@
 
 
 
-
+<script type="text/javascript">
+  $('.digiyouth-counter').each(function () {
+    $(this).prop('Counter',0).animate({
+        Counter: $(this).text()
+    }, {
+        duration: 4000,
+        easing: 'swing',
+        step: function (now) {
+            $(this).text(Math.ceil(now));
+        }
+    });
+});
+</script>
 
 </body>
 

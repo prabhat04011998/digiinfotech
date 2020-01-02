@@ -33,10 +33,12 @@ Image credits: unsplash.com
 /********************************/
 .hero {
     position: absolute;
-    top: 50%;
+    top: 30%;
     left: 50%;
     z-index: 3;
-    color: #fff;
+    font-style:italic;
+    font-family: inherit;
+    color: #333;
     text-align: center;
     text-transform: uppercase;
     text-shadow: 1px 1px 0 rgba(0,0,0,.75);
@@ -47,7 +49,7 @@ Image credits: unsplash.com
               transform: translate3d(-50%,-50%,0);
 }
 .hero h1 {
-    font-size: 6em;    
+    font-size: 4em;    
     font-weight: bold;
     margin: 0;
     padding: 0;
@@ -80,6 +82,10 @@ Image credits: unsplash.com
     background-color: #080d15;
     opacity: .7;
 }
+.hero h1,h4{
+  color:#000;
+  font-style: normal;
+}
 .hero img{
   border-radius: 50%;
   height:100px;
@@ -90,6 +96,7 @@ Image credits: unsplash.com
 .hero h3{
   text-align: justify;
 }
+
 
 /********************************/
 /*          Custom Buttons      */
@@ -117,14 +124,14 @@ Image credits: unsplash.com
   background-repeat: no-repeat;
 }
 .fade-carousel .slides .slide-1 {
-  background-image: url(https://ununsplash.imgix.net/photo-1416339134316-0e91dc9ded92?q=75&fm=jpg&s=883a422e10fc4149893984019f63c818); 
+  background-image: url(img/testimonial_background.jpeg); 
 
 }
 .fade-carousel .slides .slide-2 {
-  background-image: url(https://ununsplash.imgix.net/photo-1416339684178-3a239570f315?q=75&fm=jpg&s=c39d9a3bf66d6566b9608a9f1f3765af);
+  background-image: url(img/testimonial_background.jpeg);
 }
 .fade-carousel .slides .slide-3 {
-  background-image: url(https://ununsplash.imgix.net/photo-1416339276121-ba1dfa199912?q=75&fm=jpg&s=9bf9f2ef5be5cb5eee5255e7765cb327);
+  background-image: url(img/testimonial_background.jpeg);
 }
 
 /********************************/
@@ -141,7 +148,7 @@ Image credits: unsplash.com
 <script src="//code.jquery.com/jquery-1.11.1.min.js"></script>
 <!------ Include the above in your HEAD tag ---------->
 
-<div class="carousel fade-carousel slide" data-ride="carousel" data-interval="4000" id="bs-carousel">
+<div class="carousel fade-carousel slide" data-ride="carousel" data-interval="4000" id="bs-carousel" style="height: 400px">
   <!-- Overlay -->
   <div class="overlay"></div>
 
@@ -162,10 +169,10 @@ Image credits: unsplash.com
           <div class="row">
             <div class="col-md-3">
               <div>
-            <img src="img/team1.jpg">
+            <img src="img/perso1.jpg">
             </div>
             <h4>Prabhat Sharma</h4>
-            <p>Content-Writer</p> 
+            <span>Content-Writer</span>
 
           </div>
           <div class="col-md-9"> 
@@ -186,7 +193,7 @@ Image credits: unsplash.com
             <h1>DIGIYOUTH is smart</h1> 
                <div class="row">
                 <div class="col-md-3">
-            <img src="img/team1.jpg"> 
+            <img src="img/perso1.jpg"> 
             <h4>Prabhat Sharma</h4>
             <p>Content-Writer</p>
             </div>  
@@ -207,7 +214,7 @@ Image credits: unsplash.com
           <div class="row">
             <div class="col-md-3">
            
-            <img src="img/team1.jpg">
+            <img src="img/perso1.jpg">
             <h4>Prabhat Sharma</h4>
             <p>Content-Writer</p> 
             </div>
